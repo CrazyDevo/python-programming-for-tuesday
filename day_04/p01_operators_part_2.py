@@ -65,8 +65,10 @@ has_python='Python' in sentence
 
 print(f"Has Python = {has_python}")
 
-has_not_java='Java' not in sentence
-print(f"Has Java = {has_not_java}")
+has_not_typescript='Typescript' not in sentence
+
+print(f"Has not TypeScript = {has_not_typescript}")
+
 
 
 
